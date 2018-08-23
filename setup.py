@@ -7,7 +7,7 @@ setup(
     name='drf_contact',
     version=__import__('drf_contact').__version__,
     author=__import__('drf_contact').__author__,
-    author_email='adityagupta9399@gmail.com',
+    author_email='pypidev@civilmachines.com',
     description='Contact APP for Django REST Framework with API Views.',
     long_description=README,
     long_description_content_type="text/markdown",
@@ -16,6 +16,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     url='https://github.com/civilmachines/drf-contact',
+    install_requires=open('requirements.txt').read().split(),
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',

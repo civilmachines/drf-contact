@@ -10,8 +10,8 @@ I'll like to mention following names for certain contributions:
 
 - **[Civil Machines Technologies Private Limited](https://github.com/civilmahines)**: For providing me platform and
 funds for research work. This project is hosted currently with `CMT` only.
-- [Himanshu Shankar](https://github.com/iamhssingh): For guiding me and providing me mentor-ship while doing this
-project.
+- [Aditya Gupta](https://github.com/ag93999): Project Developer. Developed & maintained the code. Author of the project.
+- [Himanshu Shankar](https://github.com/iamhssingh): Ideation & Project Manager. Currently maintaining the project
 
 #### Installation
 
